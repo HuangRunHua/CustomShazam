@@ -9,9 +9,11 @@ import SwiftUI
 
 @main
 struct ShazamCustomApp: App {
+    @StateObject private var matcher = Matcher()
+    
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ContentView().environmentObject(matcher)
         }
     }
 }

@@ -11,6 +11,21 @@
 		BD7E2F4F26760C5E008D6B1A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD7E2F4E26760C5E008D6B1A /* ContentView.swift */; };
 		BD7E2F5126760C60008D6B1A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BD7E2F5026760C60008D6B1A /* Assets.xcassets */; };
 		BD7E2F5426760C60008D6B1A /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BD7E2F5326760C60008D6B1A /* Preview Assets.xcassets */; };
+		BD7E2F5D26760D56008D6B1A /* CatalogProvider.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD7E2F5C26760D56008D6B1A /* CatalogProvider.swift */; };
+		BD7E2F5F26760D72008D6B1A /* Matcher.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD7E2F5E26760D72008D6B1A /* Matcher.swift */; };
+		BD7E2F6126760D89008D6B1A /* Songs.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD7E2F6026760D89008D6B1A /* Songs.swift */; };
+		BD7E2F6426760DBF008D6B1A /* Colors.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD7E2F6326760DBF008D6B1A /* Colors.swift */; };
+		BD7E2F6626760DD9008D6B1A /* MatchImages.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD7E2F6526760DD9008D6B1A /* MatchImages.swift */; };
+		BD7E2F6926760E0B008D6B1A /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD7E2F6826760E0B008D6B1A /* CardView.swift */; };
+		BD7E2F6B26760E25008D6B1A /* BlurView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD7E2F6A26760E25008D6B1A /* BlurView.swift */; };
+		BD7E2F6D26760E40008D6B1A /* SongsListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD7E2F6C26760E40008D6B1A /* SongsListView.swift */; };
+		BD7E2F7926775961008D6B1A /* FoodMathMediaItemProperties.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD7E2F7826775961008D6B1A /* FoodMathMediaItemProperties.swift */; };
+		BD951E4A2678154B00BC06FA /* 风居住的街道.shazamsignature in Resources */ = {isa = PBXBuildFile; fileRef = BD951E442678154A00BC06FA /* 风居住的街道.shazamsignature */; };
+		BD951E4C2678154B00BC06FA /* Windy Hill.shazamsignature in Resources */ = {isa = PBXBuildFile; fileRef = BD951E462678154B00BC06FA /* Windy Hill.shazamsignature */; };
+		BD951E4D2678154B00BC06FA /* Flower Dance.shazamsignature in Resources */ = {isa = PBXBuildFile; fileRef = BD951E472678154B00BC06FA /* Flower Dance.shazamsignature */; };
+		BD951E4E2678154B00BC06FA /* 学校不允许乱壁咚^.^.shazamsignature in Resources */ = {isa = PBXBuildFile; fileRef = BD951E482678154B00BC06FA /* 学校不允许乱壁咚^.^.shazamsignature */; };
+		BD951E4F2678154B00BC06FA /* 起风了.shazamsignature in Resources */ = {isa = PBXBuildFile; fileRef = BD951E492678154B00BC06FA /* 起风了.shazamsignature */; };
+		BD951E532678792C00BC06FA /* 若能绽放光芒.shazamsignature in Resources */ = {isa = PBXBuildFile; fileRef = BD951E522678792B00BC06FA /* 若能绽放光芒.shazamsignature */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +34,22 @@
 		BD7E2F4E26760C5E008D6B1A /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		BD7E2F5026760C60008D6B1A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BD7E2F5326760C60008D6B1A /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		BD7E2F5A26760C86008D6B1A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		BD7E2F5C26760D56008D6B1A /* CatalogProvider.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CatalogProvider.swift; sourceTree = "<group>"; };
+		BD7E2F5E26760D72008D6B1A /* Matcher.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Matcher.swift; sourceTree = "<group>"; };
+		BD7E2F6026760D89008D6B1A /* Songs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Songs.swift; sourceTree = "<group>"; };
+		BD7E2F6326760DBF008D6B1A /* Colors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Colors.swift; sourceTree = "<group>"; };
+		BD7E2F6526760DD9008D6B1A /* MatchImages.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MatchImages.swift; sourceTree = "<group>"; };
+		BD7E2F6826760E0B008D6B1A /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
+		BD7E2F6A26760E25008D6B1A /* BlurView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BlurView.swift; sourceTree = "<group>"; };
+		BD7E2F6C26760E40008D6B1A /* SongsListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SongsListView.swift; sourceTree = "<group>"; };
+		BD7E2F7826775961008D6B1A /* FoodMathMediaItemProperties.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FoodMathMediaItemProperties.swift; sourceTree = "<group>"; };
+		BD951E442678154A00BC06FA /* 风居住的街道.shazamsignature */ = {isa = PBXFileReference; lastKnownFileType = file; path = "风居住的街道.shazamsignature"; sourceTree = "<group>"; };
+		BD951E462678154B00BC06FA /* Windy Hill.shazamsignature */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Windy Hill.shazamsignature"; sourceTree = "<group>"; };
+		BD951E472678154B00BC06FA /* Flower Dance.shazamsignature */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Flower Dance.shazamsignature"; sourceTree = "<group>"; };
+		BD951E482678154B00BC06FA /* 学校不允许乱壁咚^.^.shazamsignature */ = {isa = PBXFileReference; lastKnownFileType = file; path = "学校不允许乱壁咚^.^.shazamsignature"; sourceTree = "<group>"; };
+		BD951E492678154B00BC06FA /* 起风了.shazamsignature */ = {isa = PBXFileReference; lastKnownFileType = file; path = "起风了.shazamsignature"; sourceTree = "<group>"; };
+		BD951E522678792B00BC06FA /* 若能绽放光芒.shazamsignature */ = {isa = PBXFileReference; lastKnownFileType = file; path = "若能绽放光芒.shazamsignature"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,9 +82,14 @@
 		BD7E2F4B26760C5E008D6B1A /* ShazamCustom */ = {
 			isa = PBXGroup;
 			children = (
+				BD7E2F5A26760C86008D6B1A /* Info.plist */,
 				BD7E2F4C26760C5E008D6B1A /* ShazamCustomApp.swift */,
 				BD7E2F4E26760C5E008D6B1A /* ContentView.swift */,
 				BD7E2F5026760C60008D6B1A /* Assets.xcassets */,
+				BD7E2F5B26760D3C008D6B1A /* Data */,
+				BD7E2F6226760D9B008D6B1A /* Extensions */,
+				BD7E2F7A267759B7008D6B1A /* Resources */,
+				BD7E2F6726760DF4008D6B1A /* Views */,
 				BD7E2F5226760C60008D6B1A /* Preview Content */,
 			);
 			path = ShazamCustom;
@@ -65,6 +101,49 @@
 				BD7E2F5326760C60008D6B1A /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		BD7E2F5B26760D3C008D6B1A /* Data */ = {
+			isa = PBXGroup;
+			children = (
+				BD7E2F5C26760D56008D6B1A /* CatalogProvider.swift */,
+				BD7E2F5E26760D72008D6B1A /* Matcher.swift */,
+				BD7E2F6026760D89008D6B1A /* Songs.swift */,
+			);
+			path = Data;
+			sourceTree = "<group>";
+		};
+		BD7E2F6226760D9B008D6B1A /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+				BD7E2F6326760DBF008D6B1A /* Colors.swift */,
+				BD7E2F6526760DD9008D6B1A /* MatchImages.swift */,
+				BD7E2F7826775961008D6B1A /* FoodMathMediaItemProperties.swift */,
+			);
+			path = Extensions;
+			sourceTree = "<group>";
+		};
+		BD7E2F6726760DF4008D6B1A /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				BD7E2F6826760E0B008D6B1A /* CardView.swift */,
+				BD7E2F6A26760E25008D6B1A /* BlurView.swift */,
+				BD7E2F6C26760E40008D6B1A /* SongsListView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		BD7E2F7A267759B7008D6B1A /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				BD951E522678792B00BC06FA /* 若能绽放光芒.shazamsignature */,
+				BD951E472678154B00BC06FA /* Flower Dance.shazamsignature */,
+				BD951E462678154B00BC06FA /* Windy Hill.shazamsignature */,
+				BD951E482678154B00BC06FA /* 学校不允许乱壁咚^.^.shazamsignature */,
+				BD951E492678154B00BC06FA /* 起风了.shazamsignature */,
+				BD951E442678154A00BC06FA /* 风居住的街道.shazamsignature */,
+			);
+			path = Resources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -125,8 +204,14 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BD951E4E2678154B00BC06FA /* 学校不允许乱壁咚^.^.shazamsignature in Resources */,
+				BD951E532678792C00BC06FA /* 若能绽放光芒.shazamsignature in Resources */,
+				BD951E4D2678154B00BC06FA /* Flower Dance.shazamsignature in Resources */,
+				BD951E4F2678154B00BC06FA /* 起风了.shazamsignature in Resources */,
 				BD7E2F5426760C60008D6B1A /* Preview Assets.xcassets in Resources */,
+				BD951E4A2678154B00BC06FA /* 风居住的街道.shazamsignature in Resources */,
 				BD7E2F5126760C60008D6B1A /* Assets.xcassets in Resources */,
+				BD951E4C2678154B00BC06FA /* Windy Hill.shazamsignature in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -137,8 +222,17 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BD7E2F6126760D89008D6B1A /* Songs.swift in Sources */,
+				BD7E2F6426760DBF008D6B1A /* Colors.swift in Sources */,
+				BD7E2F5F26760D72008D6B1A /* Matcher.swift in Sources */,
 				BD7E2F4F26760C5E008D6B1A /* ContentView.swift in Sources */,
 				BD7E2F4D26760C5E008D6B1A /* ShazamCustomApp.swift in Sources */,
+				BD7E2F6B26760E25008D6B1A /* BlurView.swift in Sources */,
+				BD7E2F6626760DD9008D6B1A /* MatchImages.swift in Sources */,
+				BD7E2F6D26760E40008D6B1A /* SongsListView.swift in Sources */,
+				BD7E2F6926760E0B008D6B1A /* CardView.swift in Sources */,
+				BD7E2F7926775961008D6B1A /* FoodMathMediaItemProperties.swift in Sources */,
+				BD7E2F5D26760D56008D6B1A /* CatalogProvider.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -269,20 +363,25 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"ShazamCustom/Preview Content\"";
+				DEVELOPMENT_TEAM = 3JGXJ77W39;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = ShazamCustom/Info.plist;
+				INFOPLIST_KEY_CFBundleExecutable = ShazamCustom;
+				INFOPLIST_KEY_CFBundleName = ShazamCustom;
+				INFOPLIST_KEY_CFBundleVersion = 1;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = OUC.edu.ShazamCustom;
+				PRODUCT_BUNDLE_IDENTIFIER = OUC.hhh.ShazamCustom;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -298,20 +397,25 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"ShazamCustom/Preview Content\"";
+				DEVELOPMENT_TEAM = 3JGXJ77W39;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = ShazamCustom/Info.plist;
+				INFOPLIST_KEY_CFBundleExecutable = ShazamCustom;
+				INFOPLIST_KEY_CFBundleName = ShazamCustom;
+				INFOPLIST_KEY_CFBundleVersion = 1;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = OUC.edu.ShazamCustom;
+				PRODUCT_BUNDLE_IDENTIFIER = OUC.hhh.ShazamCustom;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
