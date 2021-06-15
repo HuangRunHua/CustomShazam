@@ -26,6 +26,7 @@
 		BD951E4E2678154B00BC06FA /* 学校不允许乱壁咚^.^.shazamsignature in Resources */ = {isa = PBXBuildFile; fileRef = BD951E482678154B00BC06FA /* 学校不允许乱壁咚^.^.shazamsignature */; };
 		BD951E4F2678154B00BC06FA /* 起风了.shazamsignature in Resources */ = {isa = PBXBuildFile; fileRef = BD951E492678154B00BC06FA /* 起风了.shazamsignature */; };
 		BD951E532678792C00BC06FA /* 若能绽放光芒.shazamsignature in Resources */ = {isa = PBXBuildFile; fileRef = BD951E522678792B00BC06FA /* 若能绽放光芒.shazamsignature */; };
+		BDE49A9E2678956F0017BA1D /* Example.mov in Resources */ = {isa = PBXBuildFile; fileRef = BDE49A9D2678956F0017BA1D /* Example.mov */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -50,6 +51,7 @@
 		BD951E482678154B00BC06FA /* 学校不允许乱壁咚^.^.shazamsignature */ = {isa = PBXFileReference; lastKnownFileType = file; path = "学校不允许乱壁咚^.^.shazamsignature"; sourceTree = "<group>"; };
 		BD951E492678154B00BC06FA /* 起风了.shazamsignature */ = {isa = PBXFileReference; lastKnownFileType = file; path = "起风了.shazamsignature"; sourceTree = "<group>"; };
 		BD951E522678792B00BC06FA /* 若能绽放光芒.shazamsignature */ = {isa = PBXFileReference; lastKnownFileType = file; path = "若能绽放光芒.shazamsignature"; sourceTree = "<group>"; };
+		BDE49A9D2678956F0017BA1D /* Example.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = Example.mov; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +92,7 @@
 				BD7E2F6226760D9B008D6B1A /* Extensions */,
 				BD7E2F7A267759B7008D6B1A /* Resources */,
 				BD7E2F6726760DF4008D6B1A /* Views */,
+				BDE49A9C267895540017BA1D /* Video */,
 				BD7E2F5226760C60008D6B1A /* Preview Content */,
 			);
 			path = ShazamCustom;
@@ -144,6 +147,14 @@
 				BD951E442678154A00BC06FA /* 风居住的街道.shazamsignature */,
 			);
 			path = Resources;
+			sourceTree = "<group>";
+		};
+		BDE49A9C267895540017BA1D /* Video */ = {
+			isa = PBXGroup;
+			children = (
+				BDE49A9D2678956F0017BA1D /* Example.mov */,
+			);
+			path = Video;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -207,6 +218,7 @@
 				BD951E4E2678154B00BC06FA /* 学校不允许乱壁咚^.^.shazamsignature in Resources */,
 				BD951E532678792C00BC06FA /* 若能绽放光芒.shazamsignature in Resources */,
 				BD951E4D2678154B00BC06FA /* Flower Dance.shazamsignature in Resources */,
+				BDE49A9E2678956F0017BA1D /* Example.mov in Resources */,
 				BD951E4F2678154B00BC06FA /* 起风了.shazamsignature in Resources */,
 				BD7E2F5426760C60008D6B1A /* Preview Assets.xcassets in Resources */,
 				BD951E4A2678154B00BC06FA /* 风居住的街道.shazamsignature in Resources */,
