@@ -27,6 +27,7 @@
 		BD951E4F2678154B00BC06FA /* 起风了.shazamsignature in Resources */ = {isa = PBXBuildFile; fileRef = BD951E492678154B00BC06FA /* 起风了.shazamsignature */; };
 		BD951E532678792C00BC06FA /* 若能绽放光芒.shazamsignature in Resources */ = {isa = PBXBuildFile; fileRef = BD951E522678792B00BC06FA /* 若能绽放光芒.shazamsignature */; };
 		BDE49A9E2678956F0017BA1D /* Example.mov in Resources */ = {isa = PBXBuildFile; fileRef = BDE49A9D2678956F0017BA1D /* Example.mov */; };
+		BDE49AA0267897040017BA1D /* Example.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = BDE49A9F267897040017BA1D /* Example.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -52,6 +53,7 @@
 		BD951E492678154B00BC06FA /* 起风了.shazamsignature */ = {isa = PBXFileReference; lastKnownFileType = file; path = "起风了.shazamsignature"; sourceTree = "<group>"; };
 		BD951E522678792B00BC06FA /* 若能绽放光芒.shazamsignature */ = {isa = PBXFileReference; lastKnownFileType = file; path = "若能绽放光芒.shazamsignature"; sourceTree = "<group>"; };
 		BDE49A9D2678956F0017BA1D /* Example.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = Example.mov; sourceTree = "<group>"; };
+		BDE49A9F267897040017BA1D /* Example.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Example.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -152,6 +154,7 @@
 		BDE49A9C267895540017BA1D /* Video */ = {
 			isa = PBXGroup;
 			children = (
+				BDE49A9F267897040017BA1D /* Example.jpeg */,
 				BDE49A9D2678956F0017BA1D /* Example.mov */,
 			);
 			path = Video;
@@ -222,6 +225,7 @@
 				BD951E4F2678154B00BC06FA /* 起风了.shazamsignature in Resources */,
 				BD7E2F5426760C60008D6B1A /* Preview Assets.xcassets in Resources */,
 				BD951E4A2678154B00BC06FA /* 风居住的街道.shazamsignature in Resources */,
+				BDE49AA0267897040017BA1D /* Example.jpeg in Resources */,
 				BD7E2F5126760C60008D6B1A /* Assets.xcassets in Resources */,
 				BD951E4C2678154B00BC06FA /* Windy Hill.shazamsignature in Resources */,
 			);
