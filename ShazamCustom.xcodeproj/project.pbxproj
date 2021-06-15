@@ -19,7 +19,7 @@
 		BD7E2F6926760E0B008D6B1A /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD7E2F6826760E0B008D6B1A /* CardView.swift */; };
 		BD7E2F6B26760E25008D6B1A /* BlurView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD7E2F6A26760E25008D6B1A /* BlurView.swift */; };
 		BD7E2F6D26760E40008D6B1A /* SongsListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD7E2F6C26760E40008D6B1A /* SongsListView.swift */; };
-		BD7E2F7926775961008D6B1A /* FoodMathMediaItemProperties.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD7E2F7826775961008D6B1A /* FoodMathMediaItemProperties.swift */; };
+		BD7E2F7926775961008D6B1A /* MathMediaItemProperties.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD7E2F7826775961008D6B1A /* MathMediaItemProperties.swift */; };
 		BD951E4A2678154B00BC06FA /* 风居住的街道.shazamsignature in Resources */ = {isa = PBXBuildFile; fileRef = BD951E442678154A00BC06FA /* 风居住的街道.shazamsignature */; };
 		BD951E4C2678154B00BC06FA /* Windy Hill.shazamsignature in Resources */ = {isa = PBXBuildFile; fileRef = BD951E462678154B00BC06FA /* Windy Hill.shazamsignature */; };
 		BD951E4D2678154B00BC06FA /* Flower Dance.shazamsignature in Resources */ = {isa = PBXBuildFile; fileRef = BD951E472678154B00BC06FA /* Flower Dance.shazamsignature */; };
@@ -45,7 +45,7 @@
 		BD7E2F6826760E0B008D6B1A /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
 		BD7E2F6A26760E25008D6B1A /* BlurView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BlurView.swift; sourceTree = "<group>"; };
 		BD7E2F6C26760E40008D6B1A /* SongsListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SongsListView.swift; sourceTree = "<group>"; };
-		BD7E2F7826775961008D6B1A /* FoodMathMediaItemProperties.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FoodMathMediaItemProperties.swift; sourceTree = "<group>"; };
+		BD7E2F7826775961008D6B1A /* MathMediaItemProperties.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MathMediaItemProperties.swift; sourceTree = "<group>"; };
 		BD951E442678154A00BC06FA /* 风居住的街道.shazamsignature */ = {isa = PBXFileReference; lastKnownFileType = file; path = "风居住的街道.shazamsignature"; sourceTree = "<group>"; };
 		BD951E462678154B00BC06FA /* Windy Hill.shazamsignature */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Windy Hill.shazamsignature"; sourceTree = "<group>"; };
 		BD951E472678154B00BC06FA /* Flower Dance.shazamsignature */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Flower Dance.shazamsignature"; sourceTree = "<group>"; };
@@ -123,7 +123,7 @@
 			children = (
 				BD7E2F6326760DBF008D6B1A /* Colors.swift */,
 				BD7E2F6526760DD9008D6B1A /* MatchImages.swift */,
-				BD7E2F7826775961008D6B1A /* FoodMathMediaItemProperties.swift */,
+				BD7E2F7826775961008D6B1A /* MathMediaItemProperties.swift */,
 			);
 			path = Extensions;
 			sourceTree = "<group>";
@@ -247,7 +247,7 @@
 				BD7E2F6626760DD9008D6B1A /* MatchImages.swift in Sources */,
 				BD7E2F6D26760E40008D6B1A /* SongsListView.swift in Sources */,
 				BD7E2F6926760E0B008D6B1A /* CardView.swift in Sources */,
-				BD7E2F7926775961008D6B1A /* FoodMathMediaItemProperties.swift in Sources */,
+				BD7E2F7926775961008D6B1A /* MathMediaItemProperties.swift in Sources */,
 				BD7E2F5D26760D56008D6B1A /* CatalogProvider.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

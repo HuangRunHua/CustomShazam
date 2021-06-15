@@ -1,5 +1,5 @@
 //
-//  FoodMathMediaItemProperties.swift
+//  MathMediaItemProperties.swift
 //  ShazamCustom
 //
 //  Created by Runhua Huang on 2021/6/14.
