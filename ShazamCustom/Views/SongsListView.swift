@@ -82,7 +82,8 @@ private struct BackgroundView: View {
 struct SongsListView_Previews: PreviewProvider {
     static var previews: some View {
 //        SongsListView(currentSong: Song(title: "起风了", singer: "@你爱了夏天", number: 1))
-        SongsListView(currentSong: Song(title: "起风了", subtitle:"HHHHHHH", singer: "买辣椒也用券",number: 1, image: .gotWindyAniImage))
+//        SongsListView(currentSong: Song(title: "起风了", subtitle:"HHHHHHH", singer: "买辣椒也用券",number: 1, image: .gotWindyAniImage))
+        SongsListView(currentSong: nil)
             .previewInterfaceOrientation(.landscapeRight)
     }
 }
